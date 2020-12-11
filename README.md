@@ -1,7 +1,7 @@
 # Open Public Transport Monitor
 
 <div style="float: left; margin: 0px 50px 50px 0px">
-  <img src="logo.svg" width="100" style="border: 1px solid black; padding: 2px">
+  <img src="assets/logo.svg" width="100" style="border: 1px solid black; padding: 2px">
 </div>
 
 <p style="text-align: justify">
