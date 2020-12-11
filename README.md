@@ -5,7 +5,7 @@
     just a description...
 
 
-## licensing
+## Licensing
 
 The logo used for OPTM came from [FontAwesome](https://fontawesome.com). You
 can check the [free][fa-free-license] FontAwesome license.
