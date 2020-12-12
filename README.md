@@ -2,9 +2,9 @@
 
 ![OPTM][optm-logo]
 
-    **Open Public Transport Monitor** or **OpenPTM** is a platform to provide
-    information about the real-time and historical usage of public transport
-    facilities.
+**Open Public Transport Monitor** or **OpenPTM** is a platform to provide
+information about the real-time and historical usage of public transport
+facilities.
 
 
 ## Licensing
